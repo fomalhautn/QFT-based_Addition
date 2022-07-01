@@ -24,7 +24,7 @@
 <p>The discrete exponentiation naturally requires discrete multiplications and these in turn require discrete addition circuits.</p> 
 <p>Discrete additions circuits can be implemented on a Quantum Computer using gates to mimic the classical way of binary addition.</p>
 
-<h2>More information is provided via Jupyter Notebook <a href="https://github.com/fomalhautn/Quantum-Fourier-Transformation_QFT-based_Addition/blob/main/QFT-based%20Addition.ipynb"><em>QFT-based Addition.ipynb</em></a></h2>
+<h2>More information is provided via Jupyter Notebook: <a href="https://github.com/fomalhautn/Quantum-Fourier-Transformation_QFT-based_Addition/blob/main/QFT-based%20Addition.ipynb"><em>QFT-based Addition.ipynb</em></a></h2>
 
 <h3>Anastasiia Andriievska</h3>
 
