@@ -3,13 +3,13 @@
 <table>
     <tr>
       <td>
-      <img src='https://www.pngitem.com/pimgs/m/432-4321754_eu-logo-european-union-hd-png-download.png' width=450>
-      </td>
-      <td>
       <img src='https://www.ideal-ist.eu/sites/default/files/2018-10/logo_quantum_flagship.jpg' width=510>
       </td>
       <td>
       <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logo_UniJena.svg/1200px-Logo_UniJena.svg.png' width=450>
+      </td>
+      <td>
+      <img src='https://www.pngitem.com/pimgs/m/432-4321754_eu-logo-european-union-hd-png-download.png' width=450>
       </td>
      </tr>
 </table>
